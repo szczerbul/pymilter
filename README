@@ -1,3 +1,11 @@
+Fork
+----
+
+This project is fork of: https://github.com/sdgathman/pymilter. It is
+the newest version of `master` branch with changes in `miltermodule.c`
+applied from `python3-branch` branch.
+
+
 Abstract
 --------
 
@@ -11,7 +19,7 @@ any point, tell Sendmail to reject, discard, or accept the message.
 Requirements
 ------------
 
-Python milter extension: http://https://pypi.python.org/pypi/pymilter/
+Python milter extension: https://pypi.python.org/pypi/pymilter/
 Python: http://www.python.org
 Sendmail: http://www.sendmail.org
 
